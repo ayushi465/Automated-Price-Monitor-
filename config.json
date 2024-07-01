@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "name": "Item name",
+            "amazon_search_url": "url1",
+            "flipkart_search_url": "url2"
+        }
+    ],
+    "email": {
+        "recipient": "something@gmail.com",
+        "sender": "somethingelse@gmail.com",
+        "password": "password"
+    }
+}
